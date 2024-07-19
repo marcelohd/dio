@@ -1,0 +1,26 @@
+# VSCode settings
+.vscode/
+target/
+
+# Java build files
+*.class
+*.jar
+
+# Eclipse files (if you're using Eclipse alongside VSCode)
+*.project
+*.settings/
+*.classpath
+
+# Maven files (if you're using Maven)
+target/
+
+# IntelliJ IDEA files (if you're using IntelliJ IDEA alongside VSCode)
+*.iml
+.idea/
+
+# Log files
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
